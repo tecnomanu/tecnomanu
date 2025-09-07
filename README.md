@@ -11,13 +11,13 @@ Construyo **herramientas MCP para agentes**, starter kits productivos y **imáge
 
 ## 🚀 Proyectos destacados
 
-- **PAMPA (MCP)** — *semantic code memory + server MCP* para que tus agentes entiendan y busquen en tu repo con precisión.  
-  `npx pampa mcp` — listo para usar con Claude/Cursor. → [Repo](https://github.com/tecnomanu/pampa)
+- **Agent Rules Kit** — CLI para **scaffoldear reglas** (p. ej. `.mdc` en Cursor) y guías de herramientas MCP por stack/arquitectura. → [Repo](https://github.com/tecnomanu/agent-rules-kit)
 
 - **Puppeteer Server (MCP)** — servidor MCP para automatizar **navegación real** con Puppeteer (clicks, fill, evaluate, screenshots) con límites y whitelist.  
   Ideal para scraping seguro y QA guiado por agentes. → [Repo](https://github.com/tecnomanu/puppeteer-server)
 
-- **Agent Rules Kit** — CLI para **scaffoldear reglas** (p. ej. `.mdc` en Cursor) y guías de herramientas MCP por stack/arquitectura. → [Repo](https://github.com/tecnomanu/agent-rules-kit)
+- **PAMPA (MCP)** — *semantic code memory + server MCP* para que tus agentes entiendan y busquen en tu repo con precisión.  
+  `npx pampa mcp` — listo para usar con Claude/Cursor. → [Repo](https://github.com/tecnomanu/pampa)
 
 - **Docker PHP8 + Nginx + Supervisor** — imagen **Alpine** optimizada para Laravel/Lumen con cron, Node, Composer y extensiones listas. → [Repo](https://github.com/tecnomanu/docker-php8-laravel-nginx-supervisor)
 
@@ -30,13 +30,13 @@ Construyo **herramientas MCP para agentes**, starter kits productivos y **imáge
 ---
 
 ## 🧠 MCP & agentes
-- [PAMPA](https://github.com/tecnomanu/pampa) — semantic search + aprendizaje de intención + servidor MCP.  
-- [Puppeteer Server](https://github.com/tecnomanu/puppeteer-server) — automatización de navegador para LLMs (safe-by-default).  
 - [Agent Rules Kit](https://github.com/tecnomanu/agent-rules-kit) — reglas y plantillas para trabajar con agentes y herramientas.
+- [Puppeteer Server](https://github.com/tecnomanu/puppeteer-server) — automatización de navegador para LLMs (safe-by-default).  
+- [PAMPA](https://github.com/tecnomanu/pampa) — semantic search + aprendizaje de intención + servidor MCP.  
 
 ## 🧩 Templates / Starters
-- [Panel base Angular + Lumen](https://github.com/tecnomanu/panel-base-frontend-api)  
 - [Multitenant NestJS API base](https://github.com/tecnomanu/multitenant-nestjs-api-base)
+- [Panel base Angular + Lumen](https://github.com/tecnomanu/panel-base-frontend-api)  
 
 ## 🐳 Imágenes Docker
 - [PHP8 FPM + Nginx + Supervisor (Laravel)](https://github.com/tecnomanu/docker-php8-laravel-nginx-supervisor)  
