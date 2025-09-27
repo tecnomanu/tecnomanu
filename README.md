@@ -1,6 +1,20 @@
+# 🚨 Especial Nerdearla 2025 — Agenda MCP 🚀
+
+> Demo en vivo — 25 de septiembre de 2025. Repositorio utilizado durante la charla de automatización en Nerdearla 2025 para compartir la agenda interactiva en tiempo real.
+
+- **Nerdearla Agenda – MCP Server** — Un servidor MCP (Model Context Protocol) que proporciona acceso a la agenda de Nerdearla en tiempo real, siguiendo la arquitectura MCP oficial. → [Repo](https://github.com/tecnomanu/nerdearla-agenda-mcp) [![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue)](https://modelcontextprotocol.io/) [![Version](https://img.shields.io/badge/version-1.2.0-green)](./package.json) [![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)](https://www.typescriptlang.org/) [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE) [![Nerdearla](https://img.shields.io/badge/Nerdearla-2025-red)](https://nerdear.la/)
+
+🎪 **Sobre este proyecto**
+
+Este MCP Server fue desarrollado como demostración práctica para la charla "Automatizá con flow: IA, n8n y MCP sin morir en el intento" presentada por Manuel Bruña y Carlos Pereyra en Nerdearla 2025.
+
+*Si te perdiste la charla, [mirala acá](https://www.youtube.com/watch?v=NKPeVDFvDys).*
+
+---
+
 # ¡Hola! Soy Manu (TecnoManu) 👋
 
-**Tech Lead & Full-stack** — TypeScript / Node / PHP (Laravel) / Angular / React.  
+**Tech Lead & Full-stack** — TypeScript / Node / PHP (Laravel) / Angular / React.
 Construyo **herramientas MCP para agentes**, starter kits productivos y **imágenes Docker** listas para producción.
 
 [![GitHub followers](https://img.shields.io/github/followers/tecnomanu?style=flat&label=Followers)](https://github.com/tecnomanu)
@@ -11,7 +25,7 @@ Construyo **herramientas MCP para agentes**, starter kits productivos y **imáge
 
 ## 🚀 Proyectos destacados
 
-- **Agent Rules Kit** — CLI para **scaffoldear reglas** (p. ej. `.mdc` en Cursor) y guías de herramientas MCP por stack/arquitectura. → [Repo](https://github.com/tecnomanu/agent-rules-kit) [![Version](https://img.shields.io/github/v/tag/tecnomanu/agent-rules-kit?label=Version&sort=semver)](https://github.com/tecnomanu/agent-rules-kit) [![Stars](https://img.shields.io/github/stars/tecnomanu/agent-rules-kit?style=flat&label=Stars)](https://github.com/tecnomanu/agent-rules-kit)
+- **Agent Rules Kit** — CLI para **scaffoldear reglas** y guías MCP listas para agentes en IDEs y terminales (Cursor, Windsurf, Zed, Claude Desktop, etc.). → [Repo](https://github.com/tecnomanu/agent-rules-kit) [![Version](https://img.shields.io/github/v/tag/tecnomanu/agent-rules-kit?label=Version&sort=semver)](https://github.com/tecnomanu/agent-rules-kit) [![Stars](https://img.shields.io/github/stars/tecnomanu/agent-rules-kit?style=flat&label=Stars)](https://github.com/tecnomanu/agent-rules-kit)
 
 - **Puppeteer Server (MCP)** — servidor MCP para automatizar **navegación real** con Puppeteer (clicks, fill, evaluate, screenshots) con límites y whitelist.
   Ideal para scraping seguro y QA guiado por agentes. → [Repo](https://github.com/tecnomanu/puppeteer-server) [![Version](https://img.shields.io/github/v/tag/tecnomanu/puppeteer-server?label=Version&sort=semver)](https://github.com/tecnomanu/puppeteer-server) [![Stars](https://img.shields.io/github/stars/tecnomanu/puppeteer-server?style=flat&label=Stars)](https://github.com/tecnomanu/puppeteer-server)
@@ -21,16 +35,14 @@ Construyo **herramientas MCP para agentes**, starter kits productivos y **imáge
 
 - **Docker PHP8 + Nginx + Supervisor** — imagen **Alpine** optimizada para Laravel/Lumen con cron, Node, Composer y extensiones listas. → [Repo](https://github.com/tecnomanu/docker-php8-laravel-nginx-supervisor) [![Version](https://img.shields.io/github/v/tag/tecnomanu/docker-php8-laravel-nginx-supervisor?label=Version&sort=semver)](https://github.com/tecnomanu/docker-php8-laravel-nginx-supervisor) [![Stars](https://img.shields.io/github/stars/tecnomanu/docker-php8-laravel-nginx-supervisor?style=flat&label=Stars)](https://github.com/tecnomanu/docker-php8-laravel-nginx-supervisor)
 
-- **Microservice Gateway** — gateway basado en **KrakenD** con plantillas, healthchecks y compose para dev/prod. → [Repo](https://github.com/tecnomanu/microservice-gateway) [![Version](https://img.shields.io/github/v/tag/tecnomanu/microservice-gateway?label=Version&sort=semver)](https://github.com/tecnomanu/microservice-gateway) [![Stars](https://img.shields.io/github/stars/tecnomanu/microservice-gateway?style=flat&label=Stars)](https://github.com/tecnomanu/microservice-gateway)
-
-- **Panel base Angular + Lumen + JWT** — admin template con auth, empresas, roles y seeds listo para clonar. → [Repo](https://github.com/tecnomanu/panel-base-frontend-api) [![Version](https://img.shields.io/github/v/tag/tecnomanu/panel-base-frontend-api?label=Version&sort=semver)](https://github.com/tecnomanu/panel-base-frontend-api) [![Stars](https://img.shields.io/github/stars/tecnomanu/panel-base-frontend-api?style=flat&label=Stars)](https://github.com/tecnomanu/panel-base-frontend-api)
+- **Multitenant NestJS API base** — boilerplate SaaS multi-tenant con auth, seeds y tooling DevOps listo para producción. → [Repo](https://github.com/tecnomanu/multitenant-nestjs-api-base) [![Version](https://img.shields.io/github/v/tag/tecnomanu/multitenant-nestjs-api-base?label=Version&sort=semver)](https://github.com/tecnomanu/multitenant-nestjs-api-base) [![Stars](https://img.shields.io/github/stars/tecnomanu/multitenant-nestjs-api-base?style=flat&label=Stars)](https://github.com/tecnomanu/multitenant-nestjs-api-base)
 
 > ¿Te gustó algo? Abre un **issue** o propón un **PR** — iteremos rápido con un MVP.
 
 ---
 
 ## 🧠 MCP & agentes
-- [Agent Rules Kit](https://github.com/tecnomanu/agent-rules-kit) — reglas y plantillas para trabajar con agentes y herramientas. [![Version](https://img.shields.io/github/v/tag/tecnomanu/agent-rules-kit?label=Version&sort=semver)](https://github.com/tecnomanu/agent-rules-kit) [![Stars](https://img.shields.io/github/stars/tecnomanu/agent-rules-kit?style=flat&label=Stars)](https://github.com/tecnomanu/agent-rules-kit)
+- [Agent Rules Kit](https://github.com/tecnomanu/agent-rules-kit) — reglas y plantillas listas para agentes en cualquier IDE/terminal compatible con MCP. [![Version](https://img.shields.io/github/v/tag/tecnomanu/agent-rules-kit?label=Version&sort=semver)](https://github.com/tecnomanu/agent-rules-kit) [![Stars](https://img.shields.io/github/stars/tecnomanu/agent-rules-kit?style=flat&label=Stars)](https://github.com/tecnomanu/agent-rules-kit)
 - [Puppeteer Server](https://github.com/tecnomanu/puppeteer-server) — automatización de navegador para LLMs (safe-by-default). [![Version](https://img.shields.io/github/v/tag/tecnomanu/puppeteer-server?label=Version&sort=semver)](https://github.com/tecnomanu/puppeteer-server) [![Stars](https://img.shields.io/github/stars/tecnomanu/puppeteer-server?style=flat&label=Stars)](https://github.com/tecnomanu/puppeteer-server)
 - [PAMPA](https://github.com/tecnomanu/pampa) — semantic search + aprendizaje de intención + servidor MCP. [![Version](https://img.shields.io/github/v/tag/tecnomanu/pampa?label=Version&sort=semver)](https://github.com/tecnomanu/pampa) [![Stars](https://img.shields.io/github/stars/tecnomanu/pampa?style=flat&label=Stars)](https://github.com/tecnomanu/pampa)
 
