@@ -1,8 +1,14 @@
 # 🚨 Especial Nerdearla 2025 — Agenda MCP 🚀
 
-> Charla en vivo — 25 de septiembre de 2025. Repositorio con la agenda interactiva para Nerdearla, listo para explorar y hackear junto a la comunidad.
+> Demo en vivo — 25 de septiembre de 2025. Repositorio utilizado durante la charla de automatización en Nerdearla 2025 para compartir la agenda interactiva en tiempo real.
 
-- **Nerdearla Agenda (MCP)** — toolkit para seguir la charla en tiempo real, con prompts, recursos y demos. → [Repo](https://github.com/tecnomanu/nerdearla-agenda-mcp) [![Version](https://img.shields.io/github/v/tag/tecnomanu/nerdearla-agenda-mcp?label=Version&sort=semver)](https://github.com/tecnomanu/nerdearla-agenda-mcp) [![Stars](https://img.shields.io/github/stars/tecnomanu/nerdearla-agenda-mcp?style=flat&label=Stars)](https://github.com/tecnomanu/nerdearla-agenda-mcp)
+- **Nerdearla Agenda – MCP Server** — Un servidor MCP (Model Context Protocol) que proporciona acceso a la agenda de Nerdearla en tiempo real, siguiendo la arquitectura MCP oficial. → [Repo](https://github.com/tecnomanu/nerdearla-agenda-mcp) [![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue)](https://modelcontextprotocol.io/) [![Version](https://img.shields.io/badge/version-1.2.0-green)](./package.json) [![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)](https://www.typescriptlang.org/) [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE) [![Nerdearla](https://img.shields.io/badge/Nerdearla-2025-red)](https://nerdear.la/)
+
+🎪 **Sobre este proyecto**
+
+Este MCP Server fue desarrollado como demostración práctica para la charla "Automatizá con flow: IA, n8n y MCP sin morir en el intento" presentada por Manuel Bruña y Carlos Pereyra en Nerdearla 2025.
+
+*Si te perdiste la charla, [mirala acá](https://www.youtube.com/watch?v=NKPeVDFvDys).*
 
 ---
 
