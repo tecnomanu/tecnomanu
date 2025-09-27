@@ -2,7 +2,9 @@
 
 > Demo en vivo — 25 de septiembre de 2025. Repositorio utilizado durante la charla de automatización en Nerdearla 2025 para compartir la agenda interactiva en tiempo real.
 
-- **Nerdearla Agenda – MCP Server** — Un servidor MCP (Model Context Protocol) que proporciona acceso a la agenda de Nerdearla en tiempo real, siguiendo la arquitectura MCP oficial. → [Repo](https://github.com/tecnomanu/nerdearla-agenda-mcp) [![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue)](https://modelcontextprotocol.io/) [![Version](https://img.shields.io/badge/version-1.2.0-green)](./package.json) [![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)](https://www.typescriptlang.org/) [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE) [![Nerdearla](https://img.shields.io/badge/Nerdearla-2025-red)](https://nerdear.la/)
+- **Nerdearla Agenda – MCP Server** — Un servidor MCP (Model Context Protocol) que proporciona acceso a la agenda de Nerdearla en tiempo real, siguiendo la arquitectura MCP oficial. → 
+- [Repo](https://github.com/tecnomanu/nerdearla-agenda-mcp) 
+- [![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue)](https://modelcontextprotocol.io/) [![Version](https://img.shields.io/badge/version-1.2.0-green)](./package.json) [![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)](https://www.typescriptlang.org/) [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE) [![Nerdearla](https://img.shields.io/badge/Nerdearla-2025-red)](https://nerdear.la/)
 
 🎪 **Sobre este proyecto**
 
@@ -25,6 +27,7 @@ Construyo **herramientas MCP para agentes**, starter kits productivos y **imáge
 
 ## 🚀 Proyectos destacados
 
+
 - **Agent Rules Kit** — CLI para **scaffoldear reglas** y guías MCP listas para agentes en IDEs y terminales (Cursor, Windsurf, Zed, Claude Desktop, etc.). → [Repo](https://github.com/tecnomanu/agent-rules-kit) [![Version](https://img.shields.io/github/v/tag/tecnomanu/agent-rules-kit?label=Version&sort=semver)](https://github.com/tecnomanu/agent-rules-kit) [![Stars](https://img.shields.io/github/stars/tecnomanu/agent-rules-kit?style=flat&label=Stars)](https://github.com/tecnomanu/agent-rules-kit)
 
 - **Puppeteer Server (MCP)** — servidor MCP para automatizar **navegación real** con Puppeteer (clicks, fill, evaluate, screenshots) con límites y whitelist.
@@ -43,6 +46,7 @@ Construyo **herramientas MCP para agentes**, starter kits productivos y **imáge
 
 ## 🧠 MCP & agentes
 - [Agent Rules Kit](https://github.com/tecnomanu/agent-rules-kit) — reglas y plantillas listas para agentes en cualquier IDE/terminal compatible con MCP. [![Version](https://img.shields.io/github/v/tag/tecnomanu/agent-rules-kit?label=Version&sort=semver)](https://github.com/tecnomanu/agent-rules-kit) [![Stars](https://img.shields.io/github/stars/tecnomanu/agent-rules-kit?style=flat&label=Stars)](https://github.com/tecnomanu/agent-rules-kit)
+- [Agent Rules Kit MCP](https://github.com/tecnomanu/agent-rules-kit-mcp) — servidor MCP companion para ejecutar las reglas directamente desde tus agentes. [![Version](https://img.shields.io/github/v/tag/tecnomanu/agent-rules-kit-mcp?label=Version&sort=semver)](https://github.com/tecnomanu/agent-rules-kit-mcp) [![Stars](https://img.shields.io/github/stars/tecnomanu/agent-rules-kit-mcp?style=flat&label=Stars)](https://github.com/tecnomanu/agent-rules-kit-mcp)
 - [Puppeteer Server](https://github.com/tecnomanu/puppeteer-server) — automatización de navegador para LLMs (safe-by-default). [![Version](https://img.shields.io/github/v/tag/tecnomanu/puppeteer-server?label=Version&sort=semver)](https://github.com/tecnomanu/puppeteer-server) [![Stars](https://img.shields.io/github/stars/tecnomanu/puppeteer-server?style=flat&label=Stars)](https://github.com/tecnomanu/puppeteer-server)
 - [PAMPA](https://github.com/tecnomanu/pampa) — semantic search + aprendizaje de intención + servidor MCP. [![Version](https://img.shields.io/github/v/tag/tecnomanu/pampa?label=Version&sort=semver)](https://github.com/tecnomanu/pampa) [![Stars](https://img.shields.io/github/stars/tecnomanu/pampa?style=flat&label=Stars)](https://github.com/tecnomanu/pampa)
 
@@ -56,10 +60,13 @@ Construyo **herramientas MCP para agentes**, starter kits productivos y **imáge
 
 ## 🧱 Microservicios
 - [Gateway (KrakenD)](https://github.com/tecnomanu/microservice-gateway) [![Version](https://img.shields.io/github/v/tag/tecnomanu/microservice-gateway?label=Version&sort=semver)](https://github.com/tecnomanu/microservice-gateway) [![Stars](https://img.shields.io/github/stars/tecnomanu/microservice-gateway?style=flat&label=Stars)](https://github.com/tecnomanu/microservice-gateway)
-- [Users (NestJS)](https://github.com/tecnomanu/microservice-users) [![Version](https://img.shields.io/github/v/tag/tecnomanu/microservice-users?label=Version&sort=semver)](https://github.com/tecnomanu/microservice-users) [![Stars](https://img.shields.io/github/stars/tecnomanu/microservice-users?style=flat&label=Stars)](https://github.com/tecnomanu/microservice-users) · [Auth](https://github.com/tecnomanu/microservice-authentication) [![Version](https://img.shields.io/github/v/tag/tecnomanu/microservice-authentication?label=Version&sort=semver)](https://github.com/tecnomanu/microservice-authentication) [![Stars](https://img.shields.io/github/stars/tecnomanu/microservice-authentication?style=flat&label=Stars)](https://github.com/tecnomanu/microservice-authentication) · [Redis Service](https://github.com/tecnomanu/microservice-redis) [![Version](https://img.shields.io/github/v/tag/tecnomanu/microservice-redis?label=Version&sort=semver)](https://github.com/tecnomanu/microservice-redis) [![Stars](https://img.shields.io/github/stars/tecnomanu/microservice-redis?style=flat&label=Stars)](https://github.com/tecnomanu/microservice-redis)
+- [Users (NestJS)](https://github.com/tecnomanu/microservice-users) [![Version](https://img.shields.io/github/v/tag/tecnomanu/microservice-users?label=Version&sort=semver)](https://github.com/tecnomanu/microservice-users) [![Stars](https://img.shields.io/github/stars/tecnomanu/microservice-users?style=flat&label=Stars)](https://github.com/tecnomanu/microservice-users) 
+- [Auth](https://github.com/tecnomanu/microservice-authentication) [![Version](https://img.shields.io/github/v/tag/tecnomanu/microservice-authentication?label=Version&sort=semver)](https://github.com/tecnomanu/microservice-authentication) [![Stars](https://img.shields.io/github/stars/tecnomanu/microservice-authentication?style=flat&label=Stars)](https://github.com/tecnomanu/microservice-authentication) 
+- [Redis Service](https://github.com/tecnomanu/microservice-redis) [![Version](https://img.shields.io/github/v/tag/tecnomanu/microservice-redis?label=Version&sort=semver)](https://github.com/tecnomanu/microservice-redis) [![Stars](https://img.shields.io/github/stars/tecnomanu/microservice-redis?style=flat&label=Stars)](https://github.com/tecnomanu/microservice-redis)
 
 ## 🔧 Utilidades / otros
 - [unilogin-laravel-lumen](https://github.com/tecnomanu/unilogin-laravel-lumen) [![Version](https://img.shields.io/github/v/tag/tecnomanu/unilogin-laravel-lumen?label=Version&sort=semver)](https://github.com/tecnomanu/unilogin-laravel-lumen) [![Stars](https://img.shields.io/github/stars/tecnomanu/unilogin-laravel-lumen?style=flat&label=Stars)](https://github.com/tecnomanu/unilogin-laravel-lumen) · [open-in-whatsapp](https://github.com/tecnomanu/open-in-whatsapp) [![Version](https://img.shields.io/github/v/tag/tecnomanu/open-in-whatsapp?label=Version&sort=semver)](https://github.com/tecnomanu/open-in-whatsapp) [![Stars](https://img.shields.io/github/stars/tecnomanu/open-in-whatsapp?style=flat&label=Stars)](https://github.com/tecnomanu/open-in-whatsapp)
+
 - Forks útiles: ngx-admin, GlowCookies, ANPR realtime, etc.
 
 ---
