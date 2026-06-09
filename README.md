@@ -69,6 +69,8 @@ I worked on the **Bytetravel ChatGPT App**, published in the ChatGPT Apps direct
 
 This taught me that a real ChatGPT App is not just tool integration. It needs use-case design, conversational flows, expected results, response consistency, testing, review cycles and clear tool-selection behavior.
 
+- App: https://chatgpt.com/apps/bytetravel/asdk_app_69cbfe8a08cc819189985005d12166e1
+
 Current work: **Tech Lead at Globely**, a Bytetravel project.
 
 ### Remove Background Local
