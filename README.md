@@ -15,7 +15,7 @@ Right now I care most about:
 - video automation for docs and social publishing
 - local-first AI tools
 
-[![GitHub followers](https://img.shields.io/github/followers/tecnomanu?style=flat&label=Followers)](https://github.com/tecnomanu)
+[![GitHub](https://img.shields.io/badge/GitHub-tecnomanu-181717?logo=github&logoColor=white)](https://github.com/tecnomanu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel%20Bru%C3%B1a-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelbrunia/)
 [![Instagram](https://img.shields.io/badge/Instagram-@tecno.manu-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tecno.manu/)
 [![TikTok](https://img.shields.io/badge/TikTok-@tecno.manu-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@tecno.manu)
