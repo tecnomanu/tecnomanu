@@ -55,23 +55,23 @@ Where APC is the portable context contract, APX is the execution and coordinatio
 
 It is related to Video Docs Builder, but aimed more directly at producing short videos for social platforms: script, voice, visuals and export flow.
 
+- Repo: https://github.com/tecnomanu/framevox
+
 ### Video Docs Builder
 
-Tooling for generating narrated videos from web app flows.
+**Video Docs Builder** is an agent skill for generating narrated videos from web app flows.
 
-It combines browser automation, TTS and FFmpeg to record flows, narrate them and build synchronized videos. Useful for demos, onboarding, QA and living documentation.
+It combines Playwright, TTS and FFmpeg to record browser interactions, narrate them and assemble synchronized `.mp4` videos. Useful for demos, onboarding, QA and living documentation.
 
 - Repo: https://github.com/tecnomanu/video-docs-builder
 
-### Bytetravel ChatGPT App
+### MCP Telegram Agent
 
-I worked on the **Bytetravel ChatGPT App**, published in the ChatGPT Apps directory.
+**MCP Telegram Agent** is a TypeScript MCP server for sending Telegram notifications from AI agents.
 
-This taught me that a real ChatGPT App is not just tool integration. It needs use-case design, conversational flows, expected results, response consistency, testing, review cycles and clear tool-selection behavior.
+It supports guided onboarding, config verification, `npx` execution and direct notification delivery from MCP-compatible clients.
 
-- App: https://chatgpt.com/apps/bytetravel/asdk_app_69cbfe8a08cc819189985005d12166e1
-
-Current work: **Tech Lead at Globely**, a Bytetravel project.
+- Repo: https://github.com/tecnomanu/mcp-telegram-agent
 
 ### Remove Background Local
 
@@ -86,6 +86,13 @@ It runs locally, has no API key requirement, supports batch processing, persiste
 npx -y remove-background-local
 npx -y remove-background-local@latest desktop install
 ```
+
+### Work note: Bytetravel ChatGPT App
+
+I worked on the **Bytetravel ChatGPT App**, published in the ChatGPT Apps directory.
+
+- App: https://chatgpt.com/apps/bytetravel/asdk_app_69cbfe8a08cc819189985005d12166e1
+- Current work: **Tech Lead at Globely**, a Bytetravel project.
 
 ---
 
