@@ -23,22 +23,36 @@ Right now I care most about:
 ---
 
 <div align="center">
-  <a href="https://github.com/tecnomanu/atlas-world-cup-2026/blob/main/README_en.md">
-    <img src="https://raw.githubusercontent.com/tecnomanu/atlas-world-cup-2026/main/public/world-cup-2026-mark.svg" width="72" alt="2026 emblem" />
+  <a href="https://github.com/agentprojectcontext/apx">
+    <img src="./assets/apx-banner.webp" width="100%" alt="APX - Meet your crew. AI agents that live on your computer, keep their memory in plain files, and hand work to each other." />
   </a>
-  <h2>⚡ Now: 2026 World Cup Operational Atlas</h2>
+  <h2>⚡ Now: APX, meet your crew</h2>
   <p>
-    An interactive map of the people, organizations, host cities, processes, and evidence behind the FIFA World Cup 2026.
+    AI agents that live on your computer, keep their memory in plain files, and hand work to each other. Open source, runs on your machine.
   </p>
+
+```bash
+npm i -g @agentprojectcontext/apx
+```
+
   <p>
-    <a href="https://github.com/tecnomanu/atlas-world-cup-2026/blob/main/README_en.md"><img alt="Featured project" src="https://img.shields.io/badge/FEATURED-Explore%20the%20Atlas-c7ff45?style=for-the-badge&labelColor=050a12" /></a>
-    <a href="https://tecnomanu.github.io/atlas-world-cup-2026/?lang=en"><img alt="Live site" src="https://img.shields.io/badge/LIVE-Open%20interactive%20map-2563eb?style=for-the-badge&logo=github&logoColor=white&labelColor=050a12" /></a>
+    <a href="https://github.com/agentprojectcontext/apx"><img alt="Repo" src="https://img.shields.io/badge/REPO-agentprojectcontext%2Fapx-4ade2f?style=for-the-badge&logo=github&logoColor=white&labelColor=050a12" /></a>
+    <a href="https://www.npmjs.com/package/@agentprojectcontext/apx"><img alt="npm" src="https://img.shields.io/badge/NPM-%40agentprojectcontext%2Fapx-4ade2f?style=for-the-badge&logo=npm&logoColor=white&labelColor=050a12" /></a>
   </p>
 </div>
 
 ---
 
 ## Now building
+
+### APX
+
+**APX** is my local agent runtime: a crew of agents that live on your machine, keep their memory in plain files, and pass work to each other. It runs agents, routines, MCPs, Telegram bridges and project tasks on top of shared project context.
+
+Where APC is the portable context contract, APX is the execution and coordination layer.
+
+- Repo: https://github.com/agentprojectcontext/apx
+- Install: `npm i -g @agentprojectcontext/apx`
 
 ### APC - Agent Project Context
 
@@ -54,14 +68,6 @@ APC helps teams avoid duplicating context across `.claude/`, `.cursor/`, `.codex
 - Repo: https://github.com/agentprojectcontext/agentprojectcontext
 
 APC does not replace MCP. **APC organizes project context. MCP connects external tools.**
-
-### APX
-
-I'm also building around **APX**, a practical layer for operating agents, routines, MCPs, Telegram bridges, project tasks, and automation on top of shared project context.
-
-Where APC is the portable context contract, APX is the execution and coordination layer I use to make agent work usable in real projects.
-
-- Repo: https://github.com/agentprojectcontext/apx
 
 ---
 
@@ -132,14 +138,6 @@ I worked on the **Bytetravel ChatGPT App**, published in the ChatGPT Apps direct
 - [PHP 7.4 + MongoDB](https://github.com/tecnomanu/docker-php74-mongodb-nginx-supervisor)
 - [Multitenant NestJS API base](https://github.com/tecnomanu/multitenant-nestjs-api-base) - SaaS multi-tenant boilerplate with auth, seeds and DevOps tooling.
 - [Panel base Angular + Lumen](https://github.com/tecnomanu/panel-base-frontend-api) - internal panel frontend/backend starter.
-
----
-
-## Talks and demos
-
-- **Nerdearla 2025** - MCP / n8n / AI demo with Carlos Pereyra.
-- [Nerdearla Agenda MCP](https://github.com/tecnomanu/nerdearla-agenda-mcp) - real-time interactive agenda MCP server.
-- Talk: https://www.youtube.com/watch?v=NKPeVDFvDys
 
 ---
 
